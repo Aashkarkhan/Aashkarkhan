@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aashkarkhan and i'm 17 years old.
-- 💡I’m interested in Web development and Game development.
+- 💡 I’m interested in Web development and Game development.
 - 📖 I’m currently learning web development.
 - 👏 I’m looking to collaborate on developer.
 - 👨 How to reach me learn web development.
